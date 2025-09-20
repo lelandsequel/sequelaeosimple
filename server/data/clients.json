@@ -1,0 +1,13 @@
+[
+  {
+    "id": "4543a356-778f-4f37-9c95-f23cbc00823c",
+    "companyName": "Persistent Test Company",
+    "websiteUrl": "https://example.com",
+    "contactEmail": "test@persistent.com",
+    "pinHash": "$2b$10$TcblBJ3ZJ6xFoDic3gg5P.JxdyJw3DK8U4/LxNiM5VDGwKRnwfQZW",
+    "pin": "701828",
+    "apiCredits": 100,
+    "createdAt": "2025-09-19T11:19:05.990Z",
+    "updatedAt": "2025-09-19T11:19:05.990Z"
+  }
+]
